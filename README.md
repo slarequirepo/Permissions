@@ -1,1 +1,0 @@
-Permissoes do eb!
