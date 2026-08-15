@@ -1,8 +1,7 @@
 {
-  "32325896": {
-    "Nome": "Tokyo Manji Gang",
+  "916548506": {
+    "Nome": "Mushoku Tensei",
     "Vida": 4000,
-    "Roupa": {"Tier": 95, "Shirt": 0, "Pants": 0},
     "Cor": {
       "Nome": {"Letra": [0, 0, 0], "Borda": [255, 255, 255]},
       "Patente": {"Letra": [0, 0, 0], "Borda": [255, 255, 255]},
@@ -13,7 +12,6 @@
   "34720826": {
     "Nome": "Akatsuki",
     "Vida": 5000,
-    "Roupa": {"Tier": 95, "Shirt": 0, "Pants": 0},
     "Cor": {
       "Nome": {"Letra": [0, 0, 0], "Borda": [255, 255, 255]},
       "Patente": {"Letra": [0, 0, 0], "Borda": [255, 255, 255]},
