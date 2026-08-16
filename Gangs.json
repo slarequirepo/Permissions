@@ -2,20 +2,27 @@
   "916548506": {
     "Nome": "Mushoku Tensei",
     "Vida": 4000,
-    "Cor": {
-      "Nome": {"Letra": [0, 0, 0], "Borda": [255, 255, 255]},
-      "Patente": {"Letra": [0, 0, 0], "Borda": [255, 255, 255]},
-      "Team": {"Letra": [0, 0, 0], "Borda": [255, 255, 0]}
-    }
+    "Poderes": ["Rinnegan"],
+    "NomeCor": [255, 255, 255],
+    "PatenteCor": [255, 255, 255],
+    "TeamCor": [255, 255, 0]
   },
 
   "34720826": {
     "Nome": "Akatsuki",
     "Vida": 5000,
-    "Cor": {
-      "Nome": {"Letra": [0, 0, 0], "Borda": [255, 255, 255]},
-      "Patente": {"Letra": [0, 0, 0], "Borda": [255, 255, 255]},
-      "Team": {"Letra": [0, 0, 0], "Borda": [255, 0, 0]}
-    }
+    "Poderes": ["Rinnegan"],
+    "NomeCor": [255, 255, 255],
+    "PatenteCor": [255, 255, 255],
+    "TeamCor": [255, 0, 0]
+  },
+
+  "4406722": {
+    "Nome": "Bonten Gang",
+    "Vida": 1000,
+    "Poderes": ["Rinnegan"],
+    "NomeCor": [255, 255, 255],
+    "PatenteCor": [255, 255, 255],
+    "TeamCor": [255, 255, 255]
   }
 }
