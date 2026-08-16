@@ -1,6 +1,7 @@
 {
   "916548506": {
     "Nome": "Mushoku Tensei",
+    "MinRank": 1,
     "Vida": 4000,
     "Poderes": ["Rinnegan"],
     "NomeCor": [255, 255, 255],
@@ -8,21 +9,13 @@
     "TeamCor": [255, 255, 0]
   },
 
-  "34720826": {
+  "36075618": {
     "Nome": "Akatsuki",
+    "MinRank": 1,
     "Vida": 5000,
     "Poderes": ["Rinnegan"],
     "NomeCor": [255, 255, 255],
     "PatenteCor": [255, 255, 255],
     "TeamCor": [255, 0, 0]
-  },
-
-  "4406722": {
-    "Nome": "Bonten Gang",
-    "Vida": 1000,
-    "Poderes": ["Rinnegan"],
-    "NomeCor": [255, 255, 255],
-    "PatenteCor": [255, 255, 255],
-    "TeamCor": [255, 255, 255]
   }
 }
