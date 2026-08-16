@@ -3,7 +3,7 @@
     "Nome": "Mushoku Tensei",
     "MinRank": 1,
     "Vida": 4000,
-    "Poderes": ["Rinnegan"],
+    "Poderes": ["Rinnegan","Colateral","Susanoo","PisoLuas","Raio"],
     "NomeCor": [255, 255, 255],
     "PatenteCor": [255, 255, 255],
     "TeamCor": [255, 255, 0]
@@ -13,7 +13,7 @@
     "Nome": "Akatsuki",
     "MinRank": 1,
     "Vida": 5000,
-    "Poderes": ["Rinnegan"],
+    "Poderes": ["Rinnegan","Colateral","Susanoo","PisoLuas","Raio"],
     "NomeCor": [255, 255, 255],
     "PatenteCor": [255, 255, 255],
     "TeamCor": [255, 0, 0]
