@@ -1,7 +1,7 @@
 {
   "916548506": {
     "Nome": "Mushoku Tensei",
-    "MinRank": 1,
+    "MinRank": 0,
     "Vida": 4000,
     "Poderes": ["Rinnegan","Colateral","Susanoo","PisoLuas","Raio"],
     "NomeCor": [255, 255, 255],
