@@ -11,7 +11,7 @@
 
   "36075618": {
     "Nome": "Akatsuki",
-    "MinRank": 1,
+    "MinRank": 0,
     "Vida": 5000,
     "Poderes": ["Rinnegan","Colateral","Susanoo","PisoLuas","Raio"],
     "NomeCor": [255, 255, 255],
