@@ -3,7 +3,7 @@
     "Nome": "Mushoku Tensei",
     "MinRank": 0,
     "Vida": 4000,
-    "Poderes": ["Rinnegan","Colateral","Susanoo","PisoLuas","Raio"],
+    "Poderes": ["Rinnegan","Colateral","Susanoo","PisoLuas","Raio","CorteSol"],
     "NomeCor": [255, 255, 255],
     "PatenteCor": [255, 255, 255],
     "TeamCor": [255, 255, 0]
