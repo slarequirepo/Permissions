@@ -1,8 +1,8 @@
 {
     "586214705": {
         "Nome": "Bonten Gang",
-        "MinRank": 1,
-        "Vida": 1500,
+        "MinRank": 0,
+        "Vida": 3000,
         "TeamCor": [255, 0, 0],
         "NomeCor": [255, 255, 255],
         "PatenteCor": [255, 215, 0],
