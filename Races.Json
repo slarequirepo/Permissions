@@ -1,1 +1,15 @@
-jason
+{
+  "Mahoraga": {
+    "Ativa": true,
+
+    "VidaExtra": 3000,
+    "AdaptarApos": 3,
+    "ReducaoAdaptacao": 0.75,
+
+    "Jogadores": [
+      "RORONA_ZORO31317"
+    ],
+
+    "GroupsPermission": []
+  }
+}
