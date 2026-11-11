@@ -8,12 +8,12 @@
     "Anjo": {
         "Players": ["RORONA_ZORO31317", "AstralBrawl", "Raihnocra1200"],
         "GroupsPermission": [],
-        "conf": {"Ativa": true, "ChanceDesvio": 0.5, "TrocarAnimacoes": ...}
+        "conf": {"Ativa": true, "ChanceDesvio": 0.5, "TrocarAnimacoes": true}
     },
 
     "Kaioshin": {
         "Players": ["RORONA_ZORO31317", "AstralBrawl", "Raihnocra1200"],
         "GroupsPermission": [],
-        "conf": {"Ativa": true, "ChanceDesvio": 0.5, "TrocarAnimacoes": ...}
+        "conf": {"Ativa": true, "ChanceDesvio": 0.5, "TrocarAnimacoes": true}
     }
 }
