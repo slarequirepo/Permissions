@@ -1,7 +1,19 @@
 {
-  "Mahoraga": {
-    "Players": ["RORONA_ZORO31317","AstralBrawl","Raihnocra1200","sonecarlk333"],
-    "GroupsPermission": [],
-    "conf": {"Ativa": true, "VidaExtra": 3000, "AdaptarApos": 3, "ReducaoAdaptacao": 1}
-  }
+    "Mahoraga": {
+        "Players": ["RORONA_ZORO31317", "AstralBrawl", "Raihnocra1200"],
+        "GroupsPermission": [],
+        "conf": {"Ativa": true, "VidaExtra": 3000, "AdaptarApos": 3}
+    },
+
+    "Anjo": {
+        "Players": ["RORONA_ZORO31317", "AstralBrawl", "Raihnocra1200"],
+        "GroupsPermission": [],
+        "conf": {"Ativa": true, "ChanceDesvio": 0.5, "TrocarAnimacoes": ...}
+    },
+
+    "Kaioshin": {
+        "Players": ["RORONA_ZORO31317", "AstralBrawl", "Raihnocra1200"],
+        "GroupsPermission": [],
+        "conf": {"Ativa": true, "ChanceDesvio": 0.5, "TrocarAnimacoes": ...}
+    }
 }
