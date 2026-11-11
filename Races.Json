@@ -5,7 +5,7 @@
     "conf": {"Ativa": true, "VidaExtra": 3000, "AdaptarApos": 3, "ReducaoAdaptacao": 0.75}
   },
   "Anjo": {
-    "Players": ["RORONA_ZORO31317", "AstralBrawl", "Raihnocra1200", "Alt_nicolasmotaflore", "sonecarlk333", "M4RJOR_MOR7E"],
+    "Players": ["RORONA_ZORO31317", "AstralBrawl", "Raihnocra1200", "Alt_nicolasmotaflore", "sonecarlk333", "M4RJOR_MOR7E", ""Bruno_tus],
     "GroupsPermission": [],
     "conf": {"Ativa": true, "ChanceDesvio": 0.6, "TrocarAnimacoes": true}
   },
