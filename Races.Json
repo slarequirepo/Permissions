@@ -1,31 +1,31 @@
 {
   "Mahoraga": {
-    "Players": ["RORONA_ZORO3131" , "HENRY_CHEFEE", "04Zl5Puc3V"],
+    "Players": ["RORONA_ZORO3131" , "HENRY_CHEFEE", "04Zl5Puc3V", "Thiaguinhochacha2014"],
     "GroupsPermission": [],
     "conf": {"Ativa": true, "VidaExtra": 3000, "AdaptarApos": 3, "ReducaoAdaptacao": 0.75}
   },
   "Anjo": {
-    "Players": ["RORONA_ZORO31317", "AstralBrawl", "Raihnocra1200", "Alt_nicolasmotaflore", "sonecarlk333", "M4RJOR_MOR7E", "Bruno_tvs", "soledad441409", "HENRY_CHEFEE", "04Zl5Puc3V"],
+    "Players": ["RORONA_ZORO31317", "AstralBrawl", "Raihnocra1200", "Alt_nicolasmotaflore", "sonecarlk333", "M4RJOR_MOR7E", "Bruno_tvs", "soledad441409", "HENRY_CHEFEE", "04Zl5Puc3V", "thiaguinhochacha2014"],
     "GroupsPermission": [],
     "conf": {"Ativa": true, "ChanceDesvio": 0.6, "TrocarAnimacoes": true}
   },
   "Kaioshin": {
-    "Players": ["RORONA_ZORO31317", "AstralBrawl", "Raihnocra1200", "Alt_nicolasmotaflore", "sonecarlk333", "soledad441409", "HENRY_CHEFEE", "04Zl5Puc3V"],
+    "Players": ["RORONA_ZORO31317", "AstralBrawl", "Raihnocra1200", "Alt_nicolasmotaflore", "sonecarlk333", "soledad441409", "HENRY_CHEFEE", "04Zl5Puc3V", "Thiaguinhochacha2014"],
     "GroupsPermission": [],
     "conf": {"Ativa": true, "ChanceDesvio": 0.8, "TrocarAnimacoes": true}
   },
   "Hakaishin": {
-    "Players": ["RORONA_ZORO31317", "AstralBrawl", "Raihnocra1200", "Alt_nicolasmotaflore", "sonecarlk333", "soledad441409", "Jonaslux08", "04Zl5Puc3V"],
+    "Players": ["RORONA_ZORO31317", "AstralBrawl", "Raihnocra1200", "Alt_nicolasmotaflore", "sonecarlk333", "soledad441409", "Jonaslux08", "04Zl5Puc3V", "Thiaguinhochacha2014"],
     "GroupsPermission": [],
     "conf": {"Ativa": true, "ChanceDesvio": 0.7, "TrocarAnimacoes": true}
   },
   "Pequeno": {
-    "Players": ["RORONA_ZORO31317", "slaOfcVip", "04Zl5Puc3V"],
+    "Players": ["RORONA_ZORO31317", "slaOfcVip", "04Zl5Puc3V", "Thiaguinhochacha2014"],
     "GroupsPermission": [],
     "conf": {"Ativa": true, "Escala": 0.7, "ChanceEscudo": 0.6}
   },
   "Uchiha": {
-    "Players": ["RORONA_ZORO31317", "04Zl5Puc3V", "sonecarlk333", "04Zl5Puc3V"],
+    "Players": ["RORONA_ZORO31317", "04Zl5Puc3V", "sonecarlk333", "04Zl5Puc3V", "Thiaguinhochacha2014"],
     "GroupsPermission": [],
     "conf": {
       "Ativa": true,
