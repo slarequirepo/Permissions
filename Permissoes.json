@@ -49,6 +49,13 @@
     "Hakari": {
       "Tier": 1000,
       "Nicks": []
+    },
+
+    "Meguna": {
+      "Tier": 1500,
+      "Nicks": [
+        "slaOfcVip"
+      ]
     }
   }
 }
