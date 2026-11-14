@@ -18,5 +18,23 @@
     "Players": ["RORONA_ZORO31317", "AstralBrawl", "Raihnocra1200", "Alt_nicolasmotaflore", "sonecarlk333", "soledad441409", "Jonaslux08"],
     "GroupsPermission": [],
     "conf": {"Ativa": true, "ChanceDesvio": 0.7, "TrocarAnimacoes": true}
+  },
+  "Pequeno": {
+    "Players": ["RORONA_ZORO31317"],
+    "GroupsPermission": [],
+    "conf": {"Ativa": true, "Escala": 0.5, "ChanceEscudo": 0.6}
+  },
+  "Uchiha": {
+    "Players": ["RORONA_ZORO31317"],
+    "GroupsPermission": [],
+    "conf": {
+      "Ativa": true,
+      "AlcanceCopia": 40,
+      "JanelaCopia": 20,
+      "CooldownFalha": 2,
+      "CooldownCopia": 5,
+      "TeclaCopiar": "H",
+      "TeclaHabilidade": "J"
+    }
   }
 }
