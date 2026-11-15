@@ -64,7 +64,7 @@
     "GroupsPermission": [],
     "conf": {
       "Ativa": true,
-      "ChanceDesvio": 20,0
+      "ChanceDesvio": 10,0
       "TrocarAnimacoes": true
     }
   },
