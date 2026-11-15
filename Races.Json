@@ -22,7 +22,7 @@
   "Pequeno": {
     "Players": ["RORONA_ZORO31317", "slaOfcVip", "04Zl5Puc3V", "Thiaguinhochacha2014", "GIqTXvPQArG", "patria_brasileira5"],
     "GroupsPermission": [],
-    "conf": {"Ativa": true, "Escala": 0.7, "ChanceEscudo": 0.6}
+    "conf": {"Ativa": true, "Escala": 0.10, "ChanceEscudo": 0.6}
   },
   "Uchiha": {
     "Players": ["RORONA_ZORO31317", "04Zl5Puc3V", "sonecarlk333", "04Zl5Puc3V", "Thiaguinhochacha2014", "GIqTXvPQArG", "marieane09158", "patria_brasileira5"],
