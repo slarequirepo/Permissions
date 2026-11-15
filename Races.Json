@@ -27,8 +27,7 @@
       "04Zl5Puc3V",
       "thiaguinhochacha2014",
       "GIqTXvPQArG",
-      "patria_brasileira5"
-    ],
+      "patria_brasileira5" ],
     "GroupsPermission": [],
     "conf": {
       "Ativa": true,
@@ -65,7 +64,7 @@
     "GroupsPermission": [],
     "conf": {
       "Ativa": true,
-      "ChanceDesvio": 10,0,
+      "ChanceDesvio": 0,9
       "TrocarAnimacoes": true
     }
   },
