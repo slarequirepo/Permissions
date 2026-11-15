@@ -17,7 +17,7 @@
   "Hakaishin": {
     "Players": ["sonecarlk333", "patria_brasileira5", "jonaslux08"],
     "GroupsPermission": [],
-    "conf": {"Ativa": true, "ChanceDesvio": 10,0, "TrocarAnimacoes": true}
+    "conf": {"Ativa": true, "ChanceDesvio": 0,7 "TrocarAnimacoes": true}
   },
   "Pequeno": {
     "Players": ["RORONA_ZORO31317", "slaOfcVip", "04Zl5Puc3V", "Thiaguinhochacha2014", "GIqTXvPQArG", "patria_brasileira5"],
