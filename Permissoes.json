@@ -1,3 +1,4 @@
+
 {
   "Permissoes": {
     "RORONA_ZORO31317": 2000,
@@ -11,7 +12,6 @@
     "JonasLux08": 2000,
     "patria_brasileira5": 2000
   },
-
   "Personagens": {
     "Gojo": {
       "Tier": 1500,
@@ -21,7 +21,6 @@
         ""
       ]
     },
-
     "Naruto": {
       "Tier": 1000,
       "Nicks": [
@@ -29,7 +28,6 @@
         "patria_brasileira5"
       ]
     },
-
     "Itadori": {
       "Tier": 500,
       "Nicks": [
@@ -38,26 +36,22 @@
         "patria_brasileira5"
       ]
     },
-
     "JP4": {
       "Tier": 450,
       "Nicks": []
     },
-
     "Itachi": {
       "Tier": 600,
       "Nicks": [
         "uchihadebluelock"
       ]
     },
-
     "Hakari": {
       "Tier": 1000,
       "Nicks": [
         "patria_brasileira5"
       ]
     },
-
     "Meguna": {
       "Tier": 1500,
       "Nicks": [
@@ -65,7 +59,6 @@
         "patria_brasileira5"
       ]
     },
-
     "Sukuna": {
       "Tier": 1000,
       "Nicks": []
