@@ -47,7 +47,7 @@
     "conf": {"Ativa": true, "ChanceDesvio": 1, "TrocarAnimacoes": false, "TrocarRoupas": false}
   },
   "MajinBoo": {
-    "Players": ["RORONA_ZORO31317", "ITACHI_HZM", "GIqTXvPQArG", "patria_brasileira5", "inmzIHBBaSb", "jonaslux08", "Vrilusao"],
+    "Players": ["RORONA_ZORO31317", "04Zl5Puc3V", "GIqTXvPQArG", "patria_brasileira5", "inmzIHBBaSb", "jonaslux08", "Vrilusao"],
     "GroupsPermission": [],
     "conf": {
       "Ativa": true,
@@ -55,8 +55,8 @@
       "CooldownAbsorver": 8,
       "TamanhoBlob": 30,
       "TeclaAbsorver": "R",
-      "TrocarAnimacoes": true,
-      "TrocarRoupas": true,
+      "TrocarAnimacoes": false,
+      "TrocarRoupas": false,
       "RemoverAcessorios": true
     }
   }
