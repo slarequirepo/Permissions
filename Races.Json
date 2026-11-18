@@ -62,11 +62,11 @@
     }
   },
   "Ceifador": {
-    "Players": ["RORONA_ZORO31317", "GIqTXvPQArG", "patria_brasileira5", "inmzIHBBaSb", "jonaslux08", "Vrilusao"],
+    "Players": ["RORONA_ZORO31317", "GIqTXvPQArG", "patria_brasileira5", "inmzIHBBaSb", "jonaslux08", "Vrilusao", "sonecarlk333"],
     "GroupsPermission": [],
     "conf": {
       "Ativa": true,
-      "ChanceDesvio": 0.6,
+      "ChanceDesvio": 0.8,
       "TrocarAnimacoes": true,
       "TrocarRoupas": true
     }
