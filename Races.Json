@@ -15,9 +15,9 @@
     "conf": {"Ativa": true, "ChanceDesvio": 0.8, "TrocarAnimacoes": true}
   },
   "Hakaishin": {
-    "Players": ["sonecarlk333",  "GIqTXvPQArG", "patria_brasileira5"],
+    "Players": ["RORONA_ZORO31317", "sonecarlk333", "GIqTXvPQArG", "patria_brasileira5"],
     "GroupsPermission": [],
-    "conf": {"Ativa": true, "ChanceDesvio": 10.0, "TrocarAnimacoes": true}
+    "conf": {"Ativa": true, "ChanceDesvio": 1, "TrocarAnimacoes": true}
   },
   "Pequeno": {
     "Players": ["RORONA_ZORO31317", "slaOfcVip", "04Zl5Puc3V", "Thiaguinhochacha2014", "GIqTXvPQArG", "patria_brasileira5", "inmzIHBBaSb", "jonaslux08", "Vrilusao"],
@@ -25,7 +25,7 @@
     "conf": {"Ativa": true, "Escala": 0.8, "ChanceEscudo": 0.6}
   },
   "Uchiha": {
-    "Players": ["RORONA_ZORO31317", "04Zl5Puc3V", "sonecarlk333", "04Zl5Puc3V", "Thiaguinhochacha2014", "GIqTXvPQArG", "mariane09158", "patria_brasileira5", "inmzIHBBaSb", "jonaslux08", "Vrilusao"],
+    "Players": ["RORONA_ZORO31317", "04Zl5Puc3V", "sonecarlk333", "Thiaguinhochacha2014", "GIqTXvPQArG", "mariane09158", "patria_brasileira5", "inmzIHBBaSb", "jonaslux08", "Vrilusao"],
     "GroupsPermission": [],
     "conf": {
       "Ativa": true,
@@ -33,8 +33,7 @@
       "JanelaCopia": 20,
       "CooldownFalha": 2,
       "CooldownCopia": 5,
-      "TeclaCopiar": "H",
-      "TeclaHabilidade": "J"
+      "TeclaCopiar": "H"
     }
   },
   "Glitch": {
@@ -46,5 +45,19 @@
     "Players": ["RORONA_ZORO31317", "04Zl5Puc3V", "GIqTXvPQArG", "patria_brasileira5", "inmzIHBBaSb", "jonaslux08", "Vrilusao"],
     "GroupsPermission": [],
     "conf": {"Ativa": true, "ChanceDesvio": 1, "TrocarAnimacoes": false, "TrocarRoupas": false}
+  },
+  "MajinBoo": {
+    "Players": ["RORONA_ZORO31317", "04Zl5Puc3V", "GIqTXvPQArG", "patria_brasileira5", "inmzIHBBaSb", "jonaslux08", "Vrilusao"],
+    "GroupsPermission": [],
+    "conf": {
+      "Ativa": true,
+      "ChanceEscudo": 0.35,
+      "CooldownAbsorver": 8,
+      "TamanhoBlob": 30,
+      "TeclaAbsorver": "R",
+      "TrocarAnimacoes": false,
+      "TrocarRoupas": false,
+      "RemoverAcessorios": true
+    }
   }
 }
