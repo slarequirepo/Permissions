@@ -55,8 +55,8 @@
       "CooldownAbsorver": 8,
       "TamanhoBlob": 30,
       "TeclaAbsorver": "R",
-      "TrocarAnimacoes": false,
-      "TrocarRoupas": false,
+      "TrocarAnimacoes": true,
+      "TrocarRoupas": true,
       "RemoverAcessorios": true
     }
   }
