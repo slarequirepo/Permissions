@@ -1,7 +1,7 @@
 
 {
   "Mahoraga": {
-    "Players": ["RORONA_ZORO31317", "GIqTXvPQArG", "patria_brasileira5", "inmzIHBBaSb", "jonaslux08", "Vrilusao"],
+    "Players": ["RORONA_ZORO31317", "GIqTXvPQArG", "patria_brasileira5", "inmzIHBBaSb", "jonaslux08", "Vrilusao", "soledad441409"],
     "GroupsPermission": [],
     "conf": {"Ativa": true, "VidaExtra": 3000, "AdaptarApos": 3, "ReducaoAdaptacao": 0.75}
   },
@@ -11,22 +11,22 @@
     "conf": {"Ativa": true, "ChanceDesvio": 0.6, "TrocarAnimacoes": true}
   },
   "Kaioshin": {
-    "Players": ["RORONA_ZORO31317", "AstralBrawl", "Raihnocra1200", "Alt_nicolasmotaflore", "sonecarlk333", "soledad441409", "GIqTXvPQArG", "patria_brasileira5", "inmzIHBBaSb", "Bruno_tvs", "jonaslux08", "Vrilusao"],
+    "Players": ["RORONA_ZORO31317", "AstralBrawl", "Raihnocra1200", "Alt_nicolasmotaflore", "sonecarlk333", "soledad441409", "GIqTXvPQArG", "patria_brasileira5", "inmzIHBBaSb", "Bruno_tvs", "jonaslux08", "Vrilusao", "soledad441409"],
     "GroupsPermission": [],
     "conf": {"Ativa": true, "ChanceDesvio": 0.8, "TrocarAnimacoes": true}
   },
   "Hakaishin": {
-    "Players": ["RORONA_ZORO31317", "sonecarlk333", "GIqTXvPQArG", "patria_brasileira5", "ITACHI_HZM"],
+    "Players": ["RORONA_ZORO31317", "sonecarlk333", "GIqTXvPQArG", "patria_brasileira5", "ITACHI_HZM", "soledad441409"],
     "GroupsPermission": [],
     "conf": {"Ativa": true, "ChanceDesvio": 1, "TrocarAnimacoes": true}
   },
   "Pequeno": {
-    "Players": ["RORONA_ZORO31317", "slaOfcVip", "Thiaguinhochacha2014", "GIqTXvPQArG", "patria_brasileira5", "inmzIHBBaSb", "jonaslux08", "Vrilusao"],
+    "Players": ["RORONA_ZORO31317", "slaOfcVip", "Thiaguinhochacha2014", "GIqTXvPQArG", "patria_brasileira5", "inmzIHBBaSb", "jonaslux08", "Vrilusao", "soledad441409"],
     "GroupsPermission": [],
     "conf": {"Ativa": true, "Escala": 0.8, "ChanceEscudo": 0.6}
   },
   "Uchiha": {
-    "Players": ["RORONA_ZORO31317", "sonecarlk333", "Thiaguinhochacha2014", "GIqTXvPQArG", "mariane09158", "patria_brasileira5", "inmzIHBBaSb", "jonaslux08", "Vrilusao"],
+    "Players": ["RORONA_ZORO31317", "sonecarlk333", "Thiaguinhochacha2014", "GIqTXvPQArG", "mariane09158", "patria_brasileira5", "inmzIHBBaSb", "jonaslux08", "Vrilusao", "soledad441409"],
     "GroupsPermission": [],
     "conf": {
       "Ativa": true,
@@ -38,17 +38,17 @@
     }
   },
   "Glitch": {
-    "Players": ["RORONA_ZORO31317", "GIqTXvPQArG", "patria_brasileira5", "inmzIHBBaSb", "jonaslux08", "Vrilusao"],
+    "Players": ["RORONA_ZORO31317", "GIqTXvPQArG", "patria_brasileira5", "inmzIHBBaSb", "jonaslux08", "Vrilusao", "soledad441409"],
     "GroupsPermission": [],
     "conf": {"Ativa": true, "ChanceDesvio": 0.3, "TrocarAnimacoes": false}
   },
   "Instinto": {
-    "Players": ["RORONA_ZORO31317", "GIqTXvPQArG", "patria_brasileira5", "inmzIHBBaSb", "jonaslux08", "Vrilusao"],
+    "Players": ["RORONA_ZORO31317", "GIqTXvPQArG", "patria_brasileira5", "inmzIHBBaSb", "jonaslux08", "Vrilusao", "soledad441409"],
     "GroupsPermission": [],
     "conf": {"Ativa": true, "ChanceDesvio": 1, "TrocarAnimacoes": false, "TrocarRoupas": false}
   },
   "MajinBoo": {
-    "Players": ["RORONA_ZORO31317", "ITACHI_HZM", "GIqTXvPQArG", "patria_brasileira5", "inmzIHBBaSb", "jonaslux08", "Vrilusao"],
+    "Players": ["RORONA_ZORO31317", "ITACHI_HZM", "GIqTXvPQArG", "patria_brasileira5", "inmzIHBBaSb", "jonaslux08", "Vrilusao", "soledad441409"],
     "GroupsPermission": [],
     "conf": {
       "Ativa": true,
@@ -62,7 +62,7 @@
     }
   },
   "Ceifador": {
-    "Players": ["RORONA_ZORO31317", "GIqTXvPQArG", "patria_brasileira5", "inmzIHBBaSb", "jonaslux08", "Vrilusao", "sonecarlk333", "Claaraxm", "soy_morenin123y"],
+    "Players": ["RORONA_ZORO31317", "GIqTXvPQArG", "patria_brasileira5", "inmzIHBBaSb", "jonaslux08", "Vrilusao", "sonecarlk333", "Claaraxm", "soy_morenin123y", "soledad441409"],
     "GroupsPermission": [],
     "conf": {
       "Ativa": true,
