@@ -6,7 +6,7 @@
     "conf": {"Ativa": true, "VidaExtra": 3000, "AdaptarApos": 3, "ReducaoAdaptacao": 0.75}
   },
   "Anjo": {
-    "Players": ["RORONA_ZORO31317",  "Raihnocra1200", "sonecarlk333"],
+    "Players": ["RORONA_ZORO31317",  "Raihnocra1200", "sonecarlk333", "GIqTXvPQArG"],
     "GroupsPermission": [],
     "conf": {"Ativa": true, "ChanceDesvio": 0.75, "TrocarAnimacoes": true}
   },
