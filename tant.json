@@ -1,0 +1,80 @@
+{
+  "permissoes": [
+    "GIqTXvPQArG",
+    "nick2"
+  ],
+  "taunts": {
+    "yare yare": {
+      "som": "rbxassetid://6670645219",
+      "texto": "Yare Yare Daze...",
+      "vel": 0.05,
+      "volume": 1
+    },
+    "fez um bom trabalho": {
+      "som": "rbxassetid://5554488284",
+      "texto": "Voce fez um bom trabalho sozinho.",
+      "vel": 0.05,
+      "volume": 3
+    },
+    "eu serei o juiz": {
+      "som": "rbxassetid://5344619446",
+      "texto": "Eu que serei o juiz!",
+      "vel": 0.05,
+      "volume": 4
+    },
+    "nao sinto pena": {
+      "som": "rbxassetid://5842011186",
+      "texto": "Mas por voce, eu nao sinto nenhuma pena.",
+      "vel": 0.05,
+      "volume": 1.5
+    },
+    "cala boca": {
+      "som": "rbxassetid://4953676212",
+      "texto": "Cale a boca! Voce e muito irritante!",
+      "vel": 0.05,
+      "volume": 4
+    },
+    "vai pagar": {
+      "som": "rbxassetid://4903895449",
+      "texto": "Voce definitivamente ira pagar.",
+      "vel": 0.05,
+      "volume": 2
+    },
+    "tatakae": {
+      "som": "rbxassetid://6952179465",
+      "texto": "Tatakae        Tatakae..",
+      "vel": 0.13,
+      "volume": 3
+    },
+    "voce e fraco": {
+      "som": "rbxassetid://6940930889",
+      "texto": "Vai ficar tudo bem, afinal... Voce e fraco...",
+      "vel": 0.08,
+      "volume": 3
+    },
+    "acho que": {
+      "som": "rbxassetid://93253958507628",
+      "texto": "Acho que vou pegar pesado",
+      "vel": 0.05,
+      "volume": 1
+    },
+    "fah": {
+      "som": "rbxassetid://131127009399892",
+      "texto": "FAH, FAH, FAH",
+      "vel": 0.05,
+      "volume": 1
+    },
+    "nossa": {
+      "som": "rbxassetid://130149208235174",
+      "texto": "Noooooooooosa",
+      "vel": 0.05,
+      "volume": 1
+    },
+    "nobruzera": {
+      "som": "rbxassetid://99625103815920",
+      "texto": "Ainhoo, nobruzera apelao",
+      "vel": 0.2,
+      "volume": 1
+    }
+  }
+}
