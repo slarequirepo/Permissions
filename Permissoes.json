@@ -1,37 +1,21 @@
 {
   "Permissoes": {
-    "RORONA_ZORO31317": 2000,
-    "inmzIHBBaSb": 1500,
-    "sonecarlk333": 2000,
-    "Alt_nicolasmotaflore": 2000,
-    "Raihnocra1200": 2000,
-    "Fono_OFC": 1000,
-    "AstralBrawl": 1000,
     "GIqTXvPQArG": 2000,
-    "JonasLux08": 2000,
-    "patria_brasileira5": 2000,
-    "Vrilusao": 2000,
-    "Petrick15t": 2000,
-    "soledad441409": 2000
+    "sonecarlk333": 2000,
+    "RORONA_ZORO31317": 2000
   },
   "Personagens": {
     "Gojo": {
       "Tier": 1500,
-      "Nicks": [
-        "patria_brasileira5"
-      ]
+      "Nicks": []
     },
     "Naruto": {
       "Tier": 1000,
-      "Nicks": [
-        "patria_brasileira5"
-      ]
+      "Nicks": []
     },
     "Itadori": {
       "Tier": 500,
-      "Nicks": [
-        "patria_brasileira5"
-      ]
+      "Nicks": []
     },
     "JP4": {
       "Tier": 450,
@@ -39,21 +23,15 @@
     },
     "Itachi": {
       "Tier": 600,
-      "Nicks": [
-        "uchihadebluelock"
-      ]
+      "Nicks": []
     },
     "Hakari": {
       "Tier": 1000,
-      "Nicks": [
-        "patria_brasileira5"
-      ]
+      "Nicks": []
     },
     "Meguna": {
       "Tier": 1500,
-      "Nicks": [
-        "patria_brasileira5"
-      ]
+      "Nicks": []
     },
     "Sukuna": {
       "Tier": 1000,
@@ -61,9 +39,7 @@
     },
     "GojoV2": {
       "Tier": 2000,
-      "Nicks": [
-        "soledad441409"
-      ]
+      "Nicks": []
     }
   }
 }
