@@ -73,6 +73,6 @@
   "Corvo": {
     "Players": ["GIqTXvPQArG", "sonecarlk333", "RORONA_ZORO31317", "icaro_00495"],
     "GroupsPermission": [],
-    "conf": {"Ativa": true, "ChanceDesvio": 0.8, "TrocarAnimacoes": true}
+    "conf": {"Ativa": true, "ChanceDesvio": 0.9, "TrocarAnimacoes": true}
   }
 }
