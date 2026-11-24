@@ -1,4 +1,3 @@
-
 {
   "Permissoes": {
     "RORONA_ZORO31317": 2000,
@@ -12,7 +11,8 @@
     "JonasLux08": 2000,
     "patria_brasileira5": 2000,
     "Vrilusao": 2000,
-    "Petrick15t": 2000
+    "Petrick15t": 2000,
+    "soledad441409": 2000
   },
   "Personagens": {
     "Gojo": {
@@ -58,6 +58,12 @@
     "Sukuna": {
       "Tier": 1000,
       "Nicks": []
+    },
+    "GojoV2": {
+      "Tier": 2000,
+      "Nicks": [
+        "soledad441409"
+      ]
     }
   }
 }
